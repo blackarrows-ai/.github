@@ -20,11 +20,8 @@ the research.
 
 ## What BlackArrows is not
 
-- Not a fund, and not a manager. It takes **no outside capital** and solicits none.
-- Not trading. All four books are **paper only**: no live execution, no broker or
-  exchange account, no orders.
+- Not a fund, and not a manager. BlackArrows does not accept outside capital.
 - Not a benchmark or data vendor.
-- No track record, and no figures published.
 
 ## Publishing
 
@@ -37,9 +34,9 @@ Conversations are arranged, not listed: hizrian@blackarrows.ai
 
 ---
 
-*Research and paper only. Nothing here is investment, legal or tax advice. Nothing here is
+*Research, not investment advice. Nothing here is legal or tax advice. Nothing here is
 an offer to sell, or a solicitation of an offer to buy, any security, fund interest or
-managed account. No performance, return or result is claimed. Statements about where the
-firm intends to go are intentions, not verified facts.*
+managed account. Statements about where the firm intends to go are intentions, not
+verified facts.*
 
 *© 2026 BlackArrows. Research, not investment advice.*
