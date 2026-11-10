@@ -4,7 +4,7 @@
 
 BlackArrows researches AI compute markets: GPU rental prices for H100/B200, compute supply, and compute futures and index data.
 
-The work is research-led and independently reviewed.
+The work is research-led. Changes go through pull requests and are independently reviewed before they are merged.
 
 A monthly compute note is published. The rest of the research is withheld.
 
